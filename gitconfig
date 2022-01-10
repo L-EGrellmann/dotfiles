@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = laura-eve@web.de
+	name = Laura-Eve Grellmann
